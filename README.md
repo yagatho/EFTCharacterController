@@ -28,3 +28,6 @@ cd EFTCharacterController
 
 Then add the repo as the project in `Unity Hub`. Then load the project using the previosly mentioned `Unity Editor` version.
 
+## Importing the asset
+- [Unity 6000.0.34f1](unityhub://6000.0.34f1/5ab2d9ed9190)
+- New input system package from package manager
